@@ -1,0 +1,16 @@
+Component	Points possible	Description
+part_d.cpp	1	Contains a correctly written main function with appropriate return type and return value
+part_d.cpp	1	git log contains an initial version of file that contains a correctly written minimal C++ program
+part_d.cpp	5	git log contains multiple versions of this file with descriptive log entries that were committed as the file was developed
+part_d.cpp	2	Imports iostream and vector libraries
+part_d.cpp	5	"Uses 'using' syntax to make cin, cout, endl, and vector available from std namespace"
+part_d.cpp	5	Defines the required variables using the required names and types
+part_d.cpp	5	Uses cout to present user with requisite prompts at the appropriate times
+part_d.cpp	5	Uses cin to read user input 
+part_d.cpp	5	Uses for loop to iterate four times
+part_d.cpp	5	Uses vector push_back method to correctly append each integer to vector of numbers
+part_d.cpp	5	Uses a single for-each loop to iterate through vector of integers
+part_d.cpp	2	Uses cout to present user with final results in appropriate format
+part_d.cpp	5	Contains no superfluous code
+part_d.cpp	5	Code is well-formatted
+part_d.cpp	5	"Appropriate comment at beginning of file provides student name, course number, date, and brief description of program"

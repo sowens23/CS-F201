@@ -1,0 +1,15 @@
+Component	Points possible	Description
+part_a.cpp	0.25	Contains a correctly written main function with appropriate return type and return value
+part_a.cpp	0.25	"Appropriate comment at beginning of file provides student name, course number, date, and brief description of program"
+part_a.cpp	0.25	git log contains an initial version of file that contains a correctly written minimal C++ program
+part_a.cpp	0.25	git log contains multiple versions of this file with descriptive log entries that were committed as the file was developed
+part_a.cpp	0.25	Contains no superfluous code
+part_a.cpp	0.25	Code is well-formatted
+part_a.cpp	0.25	Imports iostream library
+part_a.cpp	0.25	"Uses 'using' syntax to make cin, cout, endl, and vector available from std namespace"
+part_a.cpp	0.25	Defines the required variables using the required names and types using {} notation
+part_a.cpp	0.25	Uses cout to present user with results in required format
+part_a.cpp	0.25	Uses cout to present user with requisite prompts at the appropriate times
+part_a.cpp	0.25	Uses a while loop and cin to read an int
+part_a.cpp	5	Definition and implementation of centered_line function with appropriate signature
+part_a.cpp	5	Definition and implementation of print_diamond function with appropriate signature
