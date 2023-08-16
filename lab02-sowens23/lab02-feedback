@@ -1,0 +1,11 @@
+Hi Spencer, 
+
+Lab02 is a credit - no credit assignment and you got the full credit! 
+Just one thing in your date.cpp: in your output, the order of MM and DD
+seems to be reversed.
+Also, using namespace std is not recommended because it might cause the
+issue of namespace pollution.
+
+Excellent! 
+
+Yali

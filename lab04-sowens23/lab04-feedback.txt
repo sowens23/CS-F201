@@ -1,0 +1,8 @@
+Hi Spencer,
+
+Your total score for Lab04 is 100/100. fizz.cpp is 85 and fizzbuzz.cpp counts for another 15. 
+The partial scores and feedbacks for each part are within the cpp file in each part. If you 
+have any questions regarding scores or solutions, feel free to contact Yali.
+
+Thanks,
+Yali

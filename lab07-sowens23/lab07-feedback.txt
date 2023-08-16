@@ -1,0 +1,8 @@
+Hi Spencer,
+
+Your total score for Lab07 is 99.75/100. The partial scores and feedbacks for each 
+part are within the cpp file in each part. If you have any questions regarding
+scores or solutions, feel free to contact either Dr. Schwartz or Yali.
+
+Thanks,
+Yali
