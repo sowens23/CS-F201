@@ -1,0 +1,12 @@
+10/13
+
+Date.cpp:
+bool Date::leapYear() {
+	if (year % 4 == 0) {
+		if (year % 100 == 0 && year % 400 != 0) return false;
+		else return true;
+	}
+	return false;
+}
+
+part_a.cpp: see the file for detailed in-line feedback

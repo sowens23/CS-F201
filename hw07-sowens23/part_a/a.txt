@@ -1,0 +1,4 @@
+10/13
+use a for-each loop and your custom `<<` operator functions to 
+print out the complete information for each book.
+should also output author name and genre
