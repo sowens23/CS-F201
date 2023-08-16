@@ -1,0 +1,10 @@
+Hi Spencer,
+
+Your total score for HW01 is 97/100. 
+The partial scores and feedbacks for each part are within the cpp file in each part. 
+If you have any questions regarding scores or solutions, feel free to contact either Dr. Schwartz or Yali.
+Also, late policy will be applied since lab04 and hw02.
+Be careful that late commits / submissions will be deducted 10% per day after the due date.
+
+Thanks,
+Yali

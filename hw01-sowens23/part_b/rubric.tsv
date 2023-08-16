@@ -1,0 +1,17 @@
+Component	Points possible	Description
+part_b.cpp	0.25	Contains a correctly written main function with appropriate return type and return value
+part_b.cpp	0.25	git log contains an initial version of file that contains a correctly written minimal C++ program
+part_b.cpp	0.25	git log contains multiple versions of this file with descriptive log entries that were committed as the file was developed
+part_b.cpp	0.25	Imports iostream library
+part_b.cpp	0.25	"Uses 'using' syntax to make cin, cout, endl, and string available from std namespace"
+part_b.cpp	2	Defines the required variables using the required names and correct types
+part_b.cpp	2	Uses {}-style initialization where appropriate
+part_b.cpp	0.5	Uses cout to present user with requisite prompts
+part_b.cpp	0.5	Uses cin to read user input into appropriate variables
+part_b.cpp	1	Uses appropriate arithmetic operators to calculate required values
+part_b.cpp	2	Uses while loop to continue reading input until end-of-input character is received from user
+part_b.cpp	2	"Uses if, else if, and else appropriately"
+part_b.cpp	1	Refers to previously defined constant values  as appropriate rather than re-typing the literal value
+part_b.cpp	0.25	Contains no superfluous code
+part_b.cpp	0.25	Code is well-formatted
+part_b.cpp	0.25	"Appropriate comment at beginning of file provides student name, course number, date, and brief description of program"

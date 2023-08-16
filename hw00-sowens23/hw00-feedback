@@ -1,0 +1,12 @@
+Hi Spencer,
+
+HW00 is a credit - no credit assignment and you got the full credit! 
+Just one small thing here:
+In the cpp file, I saw you're using many libraries, here for a simple
+Hello World output, we could just use one library #include <iostream>,
+or the customed header file std_lib_facilities.h that you have in the
+repo because it contains #include <iostream> too.
+
+Excellent! 
+
+Yali

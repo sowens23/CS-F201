@@ -1,0 +1,14 @@
+Component	Points possible	Description
+part_d.cpp	5	Contains a correctly written main function with appropriate return type and return value
+part_d.cpp	1	git log contains an initial version of file that contains a correctly written minimal C++ program
+part_d.cpp	5	git log contains multiple versions of this file with descriptive log entries that were committed as the file was developed
+part_d.cpp	5	Imports iostream library
+part_d.cpp	5	"Uses 'using' syntax to make cin, cout, endl, and string available from std namespace"
+part_d.cpp	5	Defines the required variables using the required names and correct types
+part_d.cpp	5	Uses cout to present user with requisite prompts
+part_d.cpp	5	Uses cin to read user input into appropriate variables
+part_d.cpp	5	Uses appropriate arithmetic operator to calculate required value
+part_d.cpp	5	Uses cout to present user with results in required format
+part_d.cpp	5	Contains no superfluous code
+part_d.cpp	5	Code is well-formatted
+part_d.cpp	5	"Appropriate comment at beginning of file provides student name, course number, date, and brief description of program"
